@@ -56,6 +56,8 @@ All configuration paths and settings are managed in [config.json](file:///d:/Age
 #### 1. Browser Path (`browser_path`)
 To find the exact path to your browser executable:
 1. Search for **Brave** (or **Chrome**) in the Windows Start menu.
+<img width="628" height="385" alt="image" src="https://github.com/user-attachments/assets/bdde984e-cf36-491f-9666-90898835e29b" />
+
 2. Right-click the browser icon, hover over **More**, and select **Open file location**. (If it opens a folder of shortcuts, right-click the browser shortcut and select **Properties**).
 3. Under the **Shortcut** tab, copy the path listed in the **Target** field.
 4. Paste it into `config.json`, replacing single backslashes `\` with double backslashes `\\`.
