@@ -1,5 +1,8 @@
 # YouTube Music Playlist Downloader
 
+
+<img width="512" height="512" alt="download" src="https://github.com/user-attachments/assets/2ffd260e-f1ee-4e93-8f6c-d0d27b284c40" />
+
 An automated pipeline to extract all song URLs from a YouTube Music playlist and download them as MP3s via browser automation using Selenium and Brave/Chrome.
 
 ---
